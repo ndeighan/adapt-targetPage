@@ -7,7 +7,7 @@
   ],
   "displayName" : "TargetPage",
   "component" : "targetPage",
-  "description": "A component to target another page/article/id",
+  "description": "A component to target another page, article or id",
   "main": "/js/adapt-targetPage.js",
   "keywords": [
     "adapt-plugin",
