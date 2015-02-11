@@ -12,6 +12,6 @@ First, be sure to install the [Adapt Command Line Interface](https://github.com/
 
 Usage
 -----
-Once installed, the component can be used to create a blank space within your content.
+Once installed, the component can be used to target an article, block or component with a specific id.
 
-For example JSON format, see [example.json](https://github.com/adaptlearning/adapt-contrib-blank/blob/master/example.json)
+For example JSON format, see [example.json](https://github.com/ndeighan/adapt-targetPage/blob/master/example.json)
