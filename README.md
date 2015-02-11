@@ -14,4 +14,4 @@ Usage
 -----
 Once installed, the component can be used to create a blank space within your content.
 
-For example JSON format, see [example.json](https://github.com/adaptlearning/adapt-contrib-blank/blob/master/example.json)
+For example JSON format, see [example.json](https://github.com/ndeighan/adapt-targetPage/blob/master/example.json)
