@@ -1,7 +1,7 @@
 adapt-targetPage
 ===================
 
-A simple Adapt component to target a specific id.
+A simple Adapt component to target a course, article, block or component with a specific id.
 
 Installation
 ------------
